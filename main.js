@@ -1,4 +1,1 @@
-const setInterval(() => {
-   console.log();
-    
-}, interval);
+console.log("hello");
